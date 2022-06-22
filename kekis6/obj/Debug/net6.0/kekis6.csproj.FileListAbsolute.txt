@@ -1,0 +1,15 @@
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\bin\Debug\net6.0\kekis6.exe
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\bin\Debug\net6.0\kekis6.deps.json
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\bin\Debug\net6.0\kekis6.runtimeconfig.json
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\bin\Debug\net6.0\kekis6.dll
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\bin\Debug\net6.0\kekis6.pdb
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\kekis6.csproj.AssemblyReference.cache
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\kekis6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\kekis6.AssemblyInfoInputs.cache
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\kekis6.AssemblyInfo.cs
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\kekis6.csproj.CoreCompileInputs.cache
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\kekis6.dll
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\refint\kekis6.dll
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\kekis6.pdb
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\kekis6.genruntimeconfig.cache
+C:\Users\shelv\Desktop\examples\example_1_hello_console\kekis6\obj\Debug\net6.0\ref\kekis6.dll
